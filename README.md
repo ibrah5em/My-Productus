@@ -46,7 +46,7 @@ This GitHub Pages deployment is actively maintained as part of:
 
 ---
 
-👨💻 **Maintained by [Ibrahem Hasaki](https://github.com/ibrah5em)**  
+💻 **Maintained by [Ibrahem Hasaki](https://github.com/ibrah5em)**  
 
 💡 Contributions welcome! Please open an issue first to discuss changes.
 
