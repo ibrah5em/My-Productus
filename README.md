@@ -41,8 +41,8 @@ open index.html
 ## 🔗 Portfolio Link
 
 This GitHub Pages deployment is actively maintained as part of:
+[GitHub Repo](https://github.com/ibrah5em/Me)
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-My%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/ibrah5em/Me)
 
 ---
 
