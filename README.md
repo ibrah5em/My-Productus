@@ -40,7 +40,7 @@ open index.html
 
 ## 🔗 Portfolio Link
 
-The "My Products" button links to:  
+This GitHub Pages deployment is actively maintained as part of:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrah5em/Me)
 
