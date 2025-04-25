@@ -41,7 +41,7 @@ open index.html
 ## 🔗 Portfolio Link
 
 This GitHub Pages deployment is actively maintained as part of:
-[GitHub Repo](https://github.com/ibrah5em/Me)
+[This Repo](https://github.com/ibrah5em/Me)
 
 
 ---
