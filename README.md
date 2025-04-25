@@ -50,4 +50,4 @@ This GitHub Pages deployment is actively maintained as part of:
 
 💡 Contributions welcome! Please open an issue first to discuss changes.
 
-📱 [Layout](https://ibrah5em.github.io/My-Productus/)
+📱 Here the [Layout](https://ibrah5em.github.io/My-Productus/) of the web page.
