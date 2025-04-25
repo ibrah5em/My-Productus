@@ -14,13 +14,13 @@ A modern, responsive webpage showcasing digital products with theme switching ca
 - ✨ Smooth animations and transitions
 - 🛍️ Product cards with pricing
 - 📋 Organized section structure
-- 🔗 Portfolio link integration
+
 
 ## 📦 Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ibrah5em/My-Productus.git
 ```
 
 2. Open in browser:
@@ -43,15 +43,6 @@ open index.html
 The "My Products" button links to:  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrah5em/Me)
-
-
----
-
-## 🙏 Acknowledgements
-
-- [Boxicons](https://boxicons.com/) for amazing icons
-- Google Fonts for typography
-- GitHub community for inspiration
 
 ---
 
