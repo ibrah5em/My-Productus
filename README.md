@@ -7,7 +7,10 @@
 [![Repo Size](https://img.shields.io/github/repo-size/ibrah5em/My-Productus)](https://github.com/ibrah5em/My-Productus)
 [![Last Commit](https://img.shields.io/github/last-commit/ibrah5em/My-Productus)](https://github.com/ibrah5em/My-Productus/commits/main)
 
+
 A clean, responsive webpage showcasing digital products — featuring a dark mode toggle, smooth animations, and a modern aesthetic.
+
+![Project Preview](preview.png)
 
 ---
 
