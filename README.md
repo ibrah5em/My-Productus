@@ -1,4 +1,4 @@
-# 🛍️ My Products Webpage – Showcase Your Digital Goods
+# 🛍️ Products Webpage – Showcase Digital Goods
 
 [![GitHub Deployment](https://img.shields.io/github/deployments/ibrah5em/My-Productus/github-pages?label=Deployment)](https://github.com/ibrah5em/My-Productus/deployments)
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fibrah5em.github.io%2FMy-Productus\&down_color=red\&up_color=green\&label=Website)](https://ibrah5em.github.io/My-Productus)
