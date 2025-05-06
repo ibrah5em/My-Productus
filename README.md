@@ -132,7 +132,7 @@ Contributions are welcome! To contribute:
 
 ## 📄 License
 
-[![License: MIT](https://img.shields.io/github/license/ibrah5em/My-Productus?color=blue)](LICENSE)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This project is licensed under the **MIT License**.
 
